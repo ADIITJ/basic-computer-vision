@@ -25,7 +25,7 @@ I've worked with the FashionMNIST dataset for this project. It's a popular datas
 
 Here's a glimpse of the dataset with some sample images and labels:
 
-![FashionMNIST Samples]([insert_image_link_here](https://thiagolcmelo.github.io/assets/img/fashion-mnist.png))
+![FashionMNIST Samples]([(https://thiagolcmelo.github.io/assets/img/fashion-mnist.png])
 
 ## Model Architecture - Baseline Model
 
